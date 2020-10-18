@@ -3,12 +3,9 @@ title: list_to_tuple
 tags: list,tuple,intermediate
 ---
 
-Decapitalizes the first letter of a string.
-
-- Capitalize the first letter of each word in the string.
+Converts a list to tuple.
 
 ```py
-import random
 def list_to_tuple(l):
     t = ()
     for i in l:

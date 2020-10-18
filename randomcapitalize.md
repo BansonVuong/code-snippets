@@ -3,9 +3,7 @@ title: random_capitalize
 tags: string,intermediate
 ---
 
-Decapitalizes the first letter of a string.
-
-- Capitalize the first letter of each word in the string.
+Randomly capitalizes letters in a string.
 
 ```py
 import random
